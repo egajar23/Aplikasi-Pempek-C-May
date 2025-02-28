@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Mengatur tampilan input Select2 */
+.select2-container .select2-selection--single {
+    @apply border bg-gray-50 border-gray-300 rounded-lg text-sm focus:ring focus:ring-blue-500 focus:border-blue-500;
+    height: 40px !important; /* Menyesuaikan tinggi */
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    @apply text-gray-900;
+    line-height: 36px !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    @apply text-gray-500;
+    top: 50% !important;
+    transform: translateY(-50%);
+}
+
+/* Dropdown Select2 */
+.select2-dropdown {
+    @apply bg-white border border-gray-300 rounded-lg shadow-lg;
+}
+
+.select2-results__option {
+    @apply px-4 py-2 text-gray-700 hover:bg-gray-100 cursor-pointer;
+}
+
+.select2-results__option--highlighted {
+    @apply bg-blue-500 text-white;
+}
+
+.select2-container--default .select2-search--dropdown .select2-search__field {
+    @apply w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring focus:ring-blue-500 focus:border-blue-500;
+}
