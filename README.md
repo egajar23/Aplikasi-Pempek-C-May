@@ -9,6 +9,4 @@ Aplikasi ini dibuat oleh:
 
 ## Prosedur Aplikasi
 
-Aplikasi Pempek C'May terbagi menjadi 2 penggunaan, yaitu sisi admin dan pengguna, dimana Sisi admin ataupun pemilik memiliki akses untuk mengelola data produk, pemesanan, pelanggan, serta rekap penjualan bulanan. Sedangkan pada sisi user, pengguna dapat memesan pempek melalui platform website. Adapun prosedur penggunaan aplikasi Pempek C'May dapat dilihat sebagai berikut:
-[Laracasts](https://laracasts.com)
-- **[Vehikl](https://vehikl.com/)**
+Aplikasi Pempek C'May terbagi menjadi 2 penggunaan, yaitu sisi admin dan pengguna, dimana Sisi admin ataupun pemilik memiliki akses untuk mengelola data produk, pemesanan, pelanggan, serta rekap penjualan bulanan. Sedangkan pada sisi user, pengguna dapat memesan pempek melalui platform website.
