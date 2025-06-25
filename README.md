@@ -3,9 +3,7 @@
 Pempek C'May merupakan aplikasi penjualan online pempek berbasis website yang bertujuan untuk membantu UMKM pempek dalam meningkatkan penjualan serta Memperluas akses pasar.
 
 Aplikasi ini dibuat oleh:
-- Muhammad Diva Illyas
-- NIM 2301948624
-- Jurusan Computer Science
+- Bergas Frenli Nur Vendi
 
 ## Prosedur Aplikasi
 
